@@ -8,6 +8,8 @@
 
 Amritpal Singh
 
+141006
+
 1411234
 
 ----
@@ -60,7 +62,7 @@ List of rebars will be provided to user in the form of dropdown.
 :data-x: r+1500
 :data-y: r-1000
 
-The advent of this rebar addon in FreeCAD, reduces the effort in creating rebaring to a great extent and thus saving time.
+The advent of this rebar addon in FreeCAD, **reduces** the effort in creating rebaring to a great extent and thus **saving time**.
 
 ----
 
@@ -262,9 +264,7 @@ With this, I completed my first project.
 
 * **GSoC Archive**: https://goo.gl/xsfWJR 
 
-* **Download**: https://github.com/amrit3701/FreeCAD-Reinforcement
-
-* **Documentation**: http://me.amritpals.com/FreeCAD-Reinforcement
+* **Documentation**: https://goo.gl/jXwQsa
 
 ----
 
@@ -275,7 +275,9 @@ Love Ludhiana WebApp
 
 ----
 
-A web app developed for **"Love Ludhiana"** contest. As per the contest rules, user has to upload the content only through this app. This app acts as a channel to upload image or PDF to contest's Facebook page.
+A web app developed for 
+
+**"Love Ludhiana"** contest. As per the contest rules, user has to upload the content only through this app. This app acts as a channel to upload image or PDF to contest's Facebook page.
 
 ----
 
@@ -298,7 +300,7 @@ After **Facebook** authentication
 
 ----
 
-Form submitted
+Form **submitted**
 
 .. image:: images/submitluv.png
 	:height: 600px
@@ -315,10 +317,10 @@ Facebook page
 
 ----
 
-With this, I complete my last project.
+With this, I completed my last project.
 =======================================
 
-* **Source Code**: https://github.com/amrit3701/LuvLdh-Webapp
+* **Source Code**: https://goo.gl/ssGm5j 
 
 ----
 
