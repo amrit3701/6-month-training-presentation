@@ -15,7 +15,7 @@ Amritpal Singh
 *I worked on two main projects*
 ===================================
  
-* Rebar Addon for FreeCAD
+* Rebar Addon for FreeCAD - **Google Summer of Code** project
 * Love Ludhiana WebApp
 
 ----
@@ -257,8 +257,10 @@ Rebar Distribution
 :data-x: r+1500
 :data-y: r-2000
 
-With this, I end my first project.
-====================================
+With this, I completed my first project.
+==========================================
+
+* **GSoC Archive**: https://goo.gl/xsfWJR 
 
 * **Download**: https://github.com/amrit3701/FreeCAD-Reinforcement
 
@@ -313,8 +315,8 @@ Facebook page
 
 ----
 
-With this, I end my last project.
-====================================
+With this, I complete my last project.
+=======================================
 
 * **Source Code**: https://github.com/amrit3701/LuvLdh-Webapp
 
