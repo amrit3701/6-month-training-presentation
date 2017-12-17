@@ -100,7 +100,7 @@ Straight rebar
 :data-x: r+1500
 :data-y: r-2000
 
-LShape rebar
+L-Shape rebar
 ================
 
 ----
@@ -127,7 +127,7 @@ LShape rebar
 :data-x: r+1500
 :data-y: r-2000
 
-UShape rebar
+U-Shape rebar
 ================
 
 ----
