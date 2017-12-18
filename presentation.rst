@@ -8,6 +8,8 @@
 
 Amritpal Singh
 
+141006
+
 1411234
 
 ----
@@ -15,7 +17,7 @@ Amritpal Singh
 *I worked on two main projects*
 ===================================
  
-* Rebar Addon for FreeCAD
+* Rebar Addon for FreeCAD - **Google Summer of Code** project
 * Love Ludhiana WebApp
 
 ----
@@ -60,7 +62,7 @@ List of rebars will be provided to user in the form of dropdown.
 :data-x: r+1500
 :data-y: r-1000
 
-The advent of this rebar addon in FreeCAD, reduces the effort in creating rebaring to a great extent and thus saving time.
+The advent of this rebar addon in FreeCAD, **reduces** the effort in creating rebaring to a great extent and thus **saving time**.
 
 ----
 
@@ -100,7 +102,7 @@ Straight rebar
 :data-x: r+1500
 :data-y: r-2000
 
-LShape rebar
+L-Shape rebar
 ================
 
 ----
@@ -127,7 +129,7 @@ LShape rebar
 :data-x: r+1500
 :data-y: r-2000
 
-UShape rebar
+U-Shape rebar
 ================
 
 ----
@@ -257,12 +259,12 @@ Rebar Distribution
 :data-x: r+1500
 :data-y: r-2000
 
-With this, I end my first project.
-====================================
+With this, I completed my first project.
+==========================================
 
-* **Download**: https://github.com/amrit3701/FreeCAD-Reinforcement
+* **GSoC Archive**: https://goo.gl/xsfWJR 
 
-* **Documentation**: http://me.amritpals.com/FreeCAD-Reinforcement
+* **Documentation**: https://goo.gl/jXwQsa
 
 ----
 
@@ -273,7 +275,9 @@ Love Ludhiana WebApp
 
 ----
 
-A web app developed for **"Love Ludhiana"** contest. As per the contest rules, user has to upload the content only through this app. This app acts as a channel to upload image or PDF to contest's Facebook page.
+A web app developed for 
+
+**"Love Ludhiana"** contest. As per the contest rules, user has to upload the content only through this app. This app acts as a channel to upload image or PDF to contest's Facebook page.
 
 ----
 
@@ -296,7 +300,7 @@ After **Facebook** authentication
 
 ----
 
-Form submitted
+Form **submitted**
 
 .. image:: images/submitluv.png
 	:height: 600px
@@ -313,10 +317,10 @@ Facebook page
 
 ----
 
-With this, I end my last project.
-====================================
+With this, I completed my last project.
+=======================================
 
-* **Source Code**: https://github.com/amrit3701/LuvLdh-Webapp
+* **Source Code**: https://goo.gl/ssGm5j 
 
 ----
 
