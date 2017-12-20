@@ -27,6 +27,7 @@ Before starting I want to *acknowledge* some people.
 * *Dr. H.S. Rai* (Dean TCC and Head of Training)
 * *Yorik van Havre* (Core developer of FreeCAD)
 * *Mr. Nirbhay Chauhan* (Structural Engineer)
+* *Mr. Harmanpreet Singh* (GSoC and GCI mentor)
 
 ----
 
@@ -321,6 +322,15 @@ With this, I completed my last project.
 =======================================
 
 * **Source Code**: https://goo.gl/ssGm5j 
+
+----
+
+Achievements
+=============
+
+* **Google Code-in 2017**, Mentor in BRL-CAD.
+* **Google Summer of Code 2017**, Student in FreeCAD.
+* With significant contribution through bug fixes and **GSoC project**, I became one of the core developers of FreeCAD. https://github.com/orgs/FreeCAD/people
 
 ----
 
